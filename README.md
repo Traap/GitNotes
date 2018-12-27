@@ -2,7 +2,7 @@
 [Git documentation](https://git-scm.com/) had detailed descriptions of
 the commands found here.
 
-### dotfiles you can configured
+### git and ssh files you modify to customize behavior of git and ssh commands.
 #### .gitignore_global
 Global to all repositories on your computer.  These are files git ignores when
 you issue a command.
